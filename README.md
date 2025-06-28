@@ -10,12 +10,10 @@
 
 ## 🚀 Sobre mí
 
-**Associate Software Engineer @ Acentura**
+**Desarrollador en proceso**
 
-- 🤖 Actualmente trabajando en proyectos de **Machine Learning** y **Data Mining** con Python
-- 🌱 Aprendiendo tecnologías **Frontend** y **Backend** constantemente
-- 🎯 Meta futura: Dominar nuevas tecnologías y nunca parar de crear ideas innovadoras
-- ⚡ Dato curioso: Me encanta resolver problemas complejos con código elegante
+- ⚡ Aprendiendo tecnologías **Frontend** y **Backend** constantemente
+  
 
 ---
 
@@ -36,14 +34,16 @@
 ### 🎨 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+ 
 </p>
 
 ### ☁️ Cloud & DevOps
@@ -98,7 +98,7 @@
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Contacto
 
 <div align="center">
 
@@ -111,18 +111,4 @@
 
 ---
 
-<div align="center">
 
-### 💡 "El código es poesía escrita en lógica"
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNN/giphy.gif" width="300" />
-
-**¡Gracias por visitar mi perfil!** ⭐
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aarizaf.aarizaf)
-
-</div>
-
----
-
-<sub>💼 **Créditos:** Inspirado en [Danushka2](https://github.com/Danushka2) | 📅 **Última actualización:** 28/06/2025</sub>
