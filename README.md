@@ -1,10 +1,6 @@
 # 👋 ¡Hola! Soy [aarizaf](https://github.com/aarizaf)
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Associate+Software+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Data+Mining+Explorer)](https://git.io/typing-svg)
 
-</div>
 
 <img align="right" alt="Coding" height="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
