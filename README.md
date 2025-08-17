@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
  
 </p>
 
@@ -73,13 +74,7 @@
 
 ---
 
-## 🏆 Logros de GitHub
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aarizaf&theme=tokyonight&no-frame=true&row=1&column=6" alt="trofeos" />
-</p>
-
----
 
 
 
